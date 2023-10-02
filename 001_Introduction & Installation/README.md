@@ -49,28 +49,6 @@ Docker possesses several distinctive characteristics that have contributed to it
 In summary, Docker has emerged as a transformative technology, addressing critical challenges in software development, deployment, and management. Its ability to provide consistency, portability, and efficient resource utilization has made it an indispensable tool for modern development teams. Docker has become synonymous with containerization, driving innovation in cloud-native and microservices-based applications.
 
 <br>
-
-# Installation 
-
-Downlaod your platform specific Docker Desktop from [Docker Website](https://www.docker.com) and install it.
-
-![website.png](../.assets/001/website.png)
-![install-1.png](../.assets/001/ins-1.png)
-![install-2.png](../.assets/001/ins-2.png)
-![install-3.png](../.assets/001/ins-3.png)
-
-
-
-
-
-
-To verify the installation, go to your terminal and type and enter "docker".
-
-You should see an output if the installation was done correctly.
-
-![verify.png](../.assets/001/vrfy.png)
-
-<br>
 <br>
 <br>
 <br>
